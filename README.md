@@ -1,7 +1,6 @@
-## Olá, eu sou o Leandro Augusto 👋
 
 
-<h1 align="center">Olá 👋, eu sou José Felicio</h1>
+<h1 align="center">*Olá, eu sou o Leandro Augusto*</h1>
 <h3 align="center">um desenvolvedor Full-Stack.</h3>
 
 <h3 align="left">Connect with me:</h3>
