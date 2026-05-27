@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Leandro Augusto</p>
+<h2 align="left">Me chamo Leandro Augusto</h2>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Meus Estudos:</h2>
+<h3 align="left">Meus Estudos:</h3>
 
 ###
 
