@@ -1,12 +1,12 @@
-<h1 align="left">Olá, eu sou o Leandro Augusto</h1>
+<h1 align="left">Olá, Sejam muito bem vindos</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Me chamo Leandro Augusto</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
