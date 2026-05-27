@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developer Front End<br>📚 UI-UX Desinger ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Developer Front End<br>📚 UI-UX Desinger <br>🎯 Objetivos: ...<br>🎲 Tech: ...</p>
 
 ###
 
