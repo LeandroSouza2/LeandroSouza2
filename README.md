@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Developer Front End<br>📚 UI-UX Desinger ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Meus Estudos:</h2>
 
 ###
 
